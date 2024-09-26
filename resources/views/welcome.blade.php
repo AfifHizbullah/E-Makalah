@@ -329,16 +329,9 @@ h4 {
 
                 <div class="tutor-list">
                     <div class="kartu-tutor">
-                        <img src="https://cdn.discordapp.com/attachments/1115288369958768662/1191542958156156928/pramban.jpg?ex=65a5d1db&is=65935cdb&hm=9f8d3c1abd42584013827cd58e861e51f7e16f67d68dc16b12b98222e25a6026&"/>
+                        <img src="https://cdn.discordapp.com/attachments/1287410881407484027/1288867748260085801/3052.png_860.png?ex=66f6bf21&is=66f56da1&hm=589356299583182e6142cf2947fe9552b2248c8a2d367cf010a742de9968cc3f&"/>
                         <p>Afif Hizbullah</p>
                     </div>
-                    <div class="kartu-tutor">
-                        <img src="https://cdn.discordapp.com/attachments/1115288369958768662/1191420632332763166/WhatsApp_Image_2024-01-01_at_23.36.00_c14bc2d1.jpg?ex=65a55fee&is=6592eaee&hm=a8fdf5e4663aaaa402c529df22663ab8a10ee74efc2998289aae781a443bbb7c&"/>
-                        <p>Muflih Yasar</p>
-                    </div>
-                    <div class="kartu-tutor">
-                        <img src="https://cdn.discordapp.com/attachments/1115288369958768662/1191538982417350656/yanooo.jpg?ex=65a5ce27&is=65935927&hm=8f3f1a42f08ae8333793052adf07e9c8e8e1de5f4cd2e53af6074b5ab125d113&"/>
-                        <p>Valeryano Santosa</p>
                     </div>
                     </div>
                 </div>
@@ -361,33 +354,9 @@ h4 {
                 </a>
             </div>
             <div class="kartu-partner">
-                <a href="http://127.0.0.1:8000/articles/create" class="partner-button">
-                    <img src="https://tse3.mm.bing.net/th?id=OIP.qXXuyDlQit070zhG7ePg7AHaHa&pid=Api&P=0&h=180"/>
-                    <p>Article</p>
-                </a>
-            </div>
-            <div class="kartu-partner">
-                <a href="http://127.0.0.1:8000/books/create" class="partner-button">
-                    <img src="https://icon-library.com/images/library-icon-png/library-icon-png-28.jpg"/>
-                    <p>Book</p>
-                </a>
-            </div>
-            <div class="kartu-partner">
                 <a href="http://127.0.0.1:8000/posters/create" class="partner-button">
                     <img src="https://i.pinimg.com/736x/9e/ec/37/9eec37f0efbc0f8044645476e284e741.jpg"/>
                     <p>Poster</p>
-                </a>
-            </div>
-            <div class="kartu-partner">
-                <a href="http://127.0.0.1:8000/laporans/create" class="partner-button">
-                    <img src="https://tse3.mm.bing.net/th?id=OIP.qXXuyDlQit070zhG7ePg7AHaHa&pid=Api&P=0&h=180"/>
-                    <p>Laporan</p>
-                </a>
-            </div>
-            <div class="kartu-partner">
-                <a href="http://127.0.0.1:8000/prosidings/create" class="partner-button">
-                    <img src="https://icon-library.com/images/library-icon-png/library-icon-png-28.jpg"/>
-                    <p>Prosiding</p>
                 </a>
             </div>
         </div>
